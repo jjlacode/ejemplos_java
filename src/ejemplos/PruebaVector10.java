@@ -1,6 +1,3 @@
-/**
- * 
- */
 package ejemplos;
 import java.util.Scanner;
 
@@ -39,7 +36,7 @@ public class PruebaVector10 {
 	 * @param args
 	 */
  	public static void main(String[] args) {
-		// TODO Apéndice de método generado automáticamente
+		
 		PruebaVector10 pv=new PruebaVector10();
 		pv.cargar();
 		pv.mayoresEdad();
